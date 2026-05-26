@@ -1,4 +1,4 @@
-# posthog-zero
+# posthog-zero [![npm version](https://img.shields.io/npm/v/posthog-zero.svg?style=flat-square)](https://www.npmjs.com/package/posthog-zero)
 
 Unofficial minimal PostHog **event capture** for edge and embedded runtimes.
 
