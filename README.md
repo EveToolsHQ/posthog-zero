@@ -9,7 +9,7 @@ Built for:
 
 ## Install
 
-```bash
+```sh
 npm i posthog-zero
 ```
 

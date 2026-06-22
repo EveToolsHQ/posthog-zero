@@ -1,7 +1,7 @@
 {
   "name": "posthog-zero",
   "version": "0.1.0",
-  "description": "Minimal PostHog event capture for Cloudflare Workers, edge, and browser/Tauri.",
+  "description": "Minimal PostHog event capture for Cloudflare Workers, edge, and browser/Tauri",
   "type": "module",
   "license": "MIT",
   "repository": "EveToolsHQ/posthog-zero",
